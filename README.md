@@ -1,2 +1,0 @@
-# kedr
-Kedr description
