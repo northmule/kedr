@@ -13,7 +13,7 @@ import (
 func StartApp() {
 	loadEnvironmentVariables()
 	loadRouteHttp()
-	err := http.ListenAndServe(":8080", nil)
+	err := http.ListenAndServe(config.GetHostAddress(), nil)
 	utils.CheckError(err)
 }
 

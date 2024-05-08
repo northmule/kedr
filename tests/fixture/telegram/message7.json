@@ -1,0 +1,81 @@
+{
+  "update_id": 606210264,
+  "message": {
+    "message_id": 1390,
+    "from": {
+      "id": 5208448380,
+      "is_bot": false,
+      "first_name": "𝒔𝒍𝒂𝒗𝒂𝒃𝒖𝒋𝒏𝒊𝒚𝒔☦︎",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": -1001535880685,
+      "title": "Positif Rulit🙂MODS ANDROID",
+      "username": "Positif_Rulit_MODS_ANDROID",
+      "type": "supergroup"
+    },
+    "date": 1650182326,
+    "reply_to_message": {
+      "message_id": 1389,
+      "from": {
+        "id": 5208448380,
+        "is_bot": false,
+        "first_name": "𝒔𝒍𝒂𝒗𝒂𝒃𝒖𝒋𝒏𝒊𝒚𝒔☦︎",
+        "language_code": "ru"
+      },
+      "chat": {
+        "id": -1001535880685,
+        "title": "Positif Rulit🙂MODS ANDROID",
+        "username": "Positif_Rulit_MODS_ANDROID",
+        "type": "supergroup"
+      },
+      "date": 1650182149,
+      "photo": [
+        {
+          "file_id": "AgACAgIAAx0CW4ut7QACBW1iW8gFN6oTv2uaB4d59g4_uktkcgACtbkxG1dc4UpSqtIja7CXDwEAAwIAA3MAAyQE",
+          "file_unique_id": "AQADtbkxG1dc4Up4",
+          "file_size": 1810,
+          "width": 90,
+          "height": 69
+        },
+        {
+          "file_id": "AgACAgIAAx0CW4ut7QACBW1iW8gFN6oTv2uaB4d59g4_uktkcgACtbkxG1dc4UpSqtIja7CXDwEAAwIAA20AAyQE",
+          "file_unique_id": "AQADtbkxG1dc4Upy",
+          "file_size": 22803,
+          "width": 320,
+          "height": 244
+        },
+        {
+          "file_id": "AgACAgIAAx0CW4ut7QACBW1iW8gFN6oTv2uaB4d59g4_uktkcgACtbkxG1dc4UpSqtIja7CXDwEAAwIAA3gAAyQE",
+          "file_unique_id": "AQADtbkxG1dc4Up9",
+          "file_size": 92141,
+          "width": 800,
+          "height": 611
+        },
+        {
+          "file_id": "AgACAgIAAx0CW4ut7QACBW1iW8gFN6oTv2uaB4d59g4_uktkcgACtbkxG1dc4UpSqtIja7CXDwEAAwIAA3kAAyQE",
+          "file_unique_id": "AQADtbkxG1dc4Up-",
+          "file_size": 148346,
+          "width": 1200,
+          "height": 916
+        }
+      ],
+      "caption": "​Shadow Fight 2 — версия популярного файтинга без рекламы и ограничений (обновление)"
+    },
+    "document": {
+      "file_name": "2_5391159996387956845.apk",
+      "mime_type": "application/vnd.android.package-archive",
+      "file_id": "BQACAgIAAx0CW4ut7QACBW5iW8i2IJxU5L4POeE4H2ATKTWTiQACnRkAAldc4Uo7s-A7BtRmzyQE",
+      "file_unique_id": "AgADnRkAAldc4Uo",
+      "file_size": 153676545
+    },
+    "caption": "ℹ️Категория:  #Файтинги\n🌍Интернет:  Не требуется\n🇷🇺Русский интерфейс:  Есть\n📱Требуется Android:  4.1+\n✅Версия:   2.19.0\n🔑Моды:  Много денег\n❗️В игре нажмите на иконку мод-меню, далее на переключатель «Много денег» и на кнопку «Скрыть», чтобы получать большие награды\n‼️Чтобы зачаровать варварский доспех нужно пройти этот момент с выключенным мод-меню. После прохождения меню можно включить обратно!",
+    "caption_entities": [
+      {
+        "offset": 14,
+        "length": 9,
+        "type": "hashtag"
+      }
+    ]
+  }
+}

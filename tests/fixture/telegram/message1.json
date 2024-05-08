@@ -1,0 +1,50 @@
+{
+  "update_id": 943551208,
+  "message": {
+    "message_id": 10631,
+    "from": {
+      "id": 1073503900,
+      "is_bot": false,
+      "first_name": "&™ Elman Babaev",
+      "username": "pxonix"
+    },
+    "chat": {
+      "id": -1001222578014,
+      "title": "WordPress",
+      "username": "wp-kama",
+      "type": "supergroup"
+    },
+    "date": 1715155759,
+    "media_group_id": "13721246076484586",
+    "photo": [
+      {
+        "file_id": "AgACAgIAAx0CR8xnKAACKYdmOzMvnn9utTpBzUFAmqJP72m0iwAC-uYxG7Gr2Um7mOZDmiJRkwEAAwIAA3MAAzUE",
+        "file_unique_id": "AQAD-uYxG7Gr2Ul4",
+        "file_size": 868,
+        "width": 90,
+        "height": 45
+      },
+      {
+        "file_id": "AgACAgIAAx0CR8xnKAACKYdmOzMvnn9utTpBzUFAmqJP72m0iwAC-uYxG7Gr2Um7mOZDmiJRkwEAAwIAA20AAzUE",
+        "file_unique_id": "AQAD-uYxG7Gr2Uly",
+        "file_size": 10224,
+        "width": 320,
+        "height": 160
+      },
+      {
+        "file_id": "AgACAgIAAx0CR8xnKAACKYdmOzMvnn9utTpBzUFAmqJP72m0iwAC-uYxG7Gr2Um7mOZDmiJRkwEAAwIAA3gAAzUE",
+        "file_unique_id": "AQAD-uYxG7Gr2Ul9",
+        "file_size": 40159,
+        "width": 800,
+        "height": 400
+      },
+      {
+        "file_id": "AgACAgIAAx0CR8xnKAACKYdmOzMvnn9utTpBzUFAmqJP72m0iwAC-uYxG7Gr2Um7mOZDmiJRkwEAAwIAA3kAAzUE",
+        "file_unique_id": "AQAD-uYxG7Gr2Ul-",
+        "file_size": 69709,
+        "width": 1237,
+        "height": 618
+      }
+    ]
+  }
+}

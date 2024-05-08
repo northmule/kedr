@@ -1,0 +1,39 @@
+{
+  "update_id": 606566153,
+  "message": {
+    "message_id": 24785,
+    "from": {
+      "id": 804961471,
+      "is_bot": false,
+      "first_name": "сонь",
+      "username": "mnsavq"
+    },
+    "chat": {
+      "id": -1001124230987,
+      "title": "Авто-чат | ДПС ДТП",
+      "username": "auto37",
+      "type": "supergroup"
+    },
+    "date": 1715184700,
+    "new_chat_participant": {
+      "id": 804961471,
+      "is_bot": false,
+      "first_name": "сонь",
+      "username": "mnsavq"
+    },
+    "new_chat_member": {
+      "id": 804961471,
+      "is_bot": false,
+      "first_name": "сонь",
+      "username": "mnsavq"
+    },
+    "new_chat_members": [
+      {
+        "id": 804961471,
+        "is_bot": false,
+        "first_name": "сонь",
+        "username": "mnsavq"
+      }
+    ]
+  }
+}

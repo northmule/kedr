@@ -1,0 +1,37 @@
+{
+  "update_id": 606210258,
+  "message": {
+    "message_id": 11550,
+    "from": {
+      "id": 1046205289,
+      "is_bot": false,
+      "first_name": "사라",
+      "username": "SARA_LOVEE"
+    },
+    "chat": {
+      "id": -1001757392178,
+      "title": "ⓦⓘⓝⓔⓡⓢ",
+      "username": "winersbts",
+      "type": "supergroup"
+    },
+    "date": 1650180071,
+    "reply_to_message": {
+      "message_id": 11547,
+      "from": {
+        "id": 1460055430,
+        "is_bot": false,
+        "first_name": "Masha",
+        "username": "Mashakook"
+      },
+      "chat": {
+        "id": -1001757392178,
+        "title": "ⓦⓘⓝⓔⓡⓢ",
+        "username": "winersbts",
+        "type": "supergroup"
+      },
+      "date": 1650179001,
+      "text": "Как спалось?"
+    },
+    "text": "Нормально"
+  }
+}

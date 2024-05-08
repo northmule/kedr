@@ -1,0 +1,599 @@
+{
+  "update_id": 606566152,
+  "message": {
+    "message_id": 24784,
+    "from": {
+      "id": 6823358883,
+      "is_bot": false,
+      "first_name": "СМОТРИ ПРОФИЛЬ",
+      "username": "cosabesttt",
+      "is_premium": true
+    },
+    "chat": {
+      "id": -1001124230987,
+      "title": "Авто-чат | ДПС ДТП",
+      "username": "auto37",
+      "type": "supergroup"
+    },
+    "date": 1715184612,
+    "text": "❄️❄️❄️❄️ ❄️❄️❄️❄️❄️❄️\n❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️\n\n❄️❄️❄️❄️❄️❄️ ❄️❄️❄️\n\n❄️Лучший st@ff на рынке❄️\n❄️VHQ качесто❄️\n❄️Активная поддержка 24/7❄️\n❄️Широкий ассортимент товара❄️\n\n❄️❄️❄️❄️❄️❄️❄️\n❄️❄️❄️❄️❄️❄️❄️❄️\n❄️❄️❄️❄️❄️\n\n❄️❄️❄️❄️\n❄️❄️❄️❄️❄️\n❄️❄️❄️❄️\n❄️❄️❄️❄️\n\n❄️Мы ручаемся за качество❄️\n❄️Оплата банковской картой❄️\n❄️Оплата криптой❄️\n❄️Оплата через оператора❄️\n\n❄️❄️❄️❄️❄️❄️ ❄️\n❄️❄️❄️❄️❄️❄️❄️",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204307950981621103"
+      },
+      {
+        "offset": 2,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206239651177703074"
+      },
+      {
+        "offset": 4,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204396092300468907"
+      },
+      {
+        "offset": 6,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206430094322574535"
+      },
+      {
+        "offset": 9,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206540444917310546"
+      },
+      {
+        "offset": 11,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206239651177703074"
+      },
+      {
+        "offset": 13,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204396092300468907"
+      },
+      {
+        "offset": 15,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206671269621147248"
+      },
+      {
+        "offset": 17,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204348315084268426"
+      },
+      {
+        "offset": 19,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206430094322574535"
+      },
+      {
+        "offset": 22,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 24,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 26,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 28,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 30,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 32,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 34,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 36,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 38,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 40,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206392517653701010"
+      },
+      {
+        "offset": 44,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204042345909068791"
+      },
+      {
+        "offset": 46,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204037290732561529"
+      },
+      {
+        "offset": 48,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206701450356335701"
+      },
+      {
+        "offset": 50,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204411751751231108"
+      },
+      {
+        "offset": 52,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204120303860458607"
+      },
+      {
+        "offset": 54,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204273539703645672"
+      },
+      {
+        "offset": 57,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204411751751231108"
+      },
+      {
+        "offset": 59,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204172204245264432"
+      },
+      {
+        "offset": 61,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206216200656265823"
+      },
+      {
+        "offset": 65,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206396821210931925"
+      },
+      {
+        "offset": 88,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206396821210931925"
+      },
+      {
+        "offset": 91,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206396821210931925"
+      },
+      {
+        "offset": 104,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206396821210931925"
+      },
+      {
+        "offset": 107,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206396821210931925"
+      },
+      {
+        "offset": 132,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206396821210931925"
+      },
+      {
+        "offset": 135,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206396821210931925"
+      },
+      {
+        "offset": 163,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206396821210931925"
+      },
+      {
+        "offset": 167,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206699577750593704"
+      },
+      {
+        "offset": 169,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206226676081501320"
+      },
+      {
+        "offset": 171,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204368054753960340"
+      },
+      {
+        "offset": 173,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206222733301523368"
+      },
+      {
+        "offset": 175,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206378090858554282"
+      },
+      {
+        "offset": 177,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206478644632890022"
+      },
+      {
+        "offset": 179,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204120303860458607"
+      },
+      {
+        "offset": 182,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204097772462023272"
+      },
+      {
+        "offset": 184,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204161715935126919"
+      },
+      {
+        "offset": 186,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206279920791070696"
+      },
+      {
+        "offset": 188,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204161715935126919"
+      },
+      {
+        "offset": 190,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204013823031255675"
+      },
+      {
+        "offset": 192,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204462251976696801"
+      },
+      {
+        "offset": 194,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204172204245264432"
+      },
+      {
+        "offset": 196,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204304991749152809"
+      },
+      {
+        "offset": 199,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206343812724565220"
+      },
+      {
+        "offset": 201,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206378090858554282"
+      },
+      {
+        "offset": 203,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204411751751231108"
+      },
+      {
+        "offset": 205,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204120303860458607"
+      },
+      {
+        "offset": 207,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204411751751231108"
+      },
+      {
+        "offset": 211,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204168888530510879"
+      },
+      {
+        "offset": 213,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204010756424607104"
+      },
+      {
+        "offset": 215,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204168888530510879"
+      },
+      {
+        "offset": 217,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206430094322574535"
+      },
+      {
+        "offset": 220,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206659776288661322"
+      },
+      {
+        "offset": 222,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204172204245264432"
+      },
+      {
+        "offset": 224,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204411751751231108"
+      },
+      {
+        "offset": 226,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206226676081501320"
+      },
+      {
+        "offset": 228,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204120303860458607"
+      },
+      {
+        "offset": 231,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206226676081501320"
+      },
+      {
+        "offset": 233,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204172204245264432"
+      },
+      {
+        "offset": 235,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206226676081501320"
+      },
+      {
+        "offset": 237,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204368054753960340"
+      },
+      {
+        "offset": 240,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204368054753960340"
+      },
+      {
+        "offset": 242,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204172204245264432"
+      },
+      {
+        "offset": 244,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204042345909068791"
+      },
+      {
+        "offset": 246,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204018714999005473"
+      },
+      {
+        "offset": 250,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204361204281123441"
+      },
+      {
+        "offset": 275,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204361204281123441"
+      },
+      {
+        "offset": 278,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204361204281123441"
+      },
+      {
+        "offset": 304,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204361204281123441"
+      },
+      {
+        "offset": 307,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204361204281123441"
+      },
+      {
+        "offset": 323,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204361204281123441"
+      },
+      {
+        "offset": 326,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204361204281123441"
+      },
+      {
+        "offset": 350,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204361204281123441"
+      },
+      {
+        "offset": 354,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204368054753960340"
+      },
+      {
+        "offset": 356,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204368054753960340"
+      },
+      {
+        "offset": 358,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206515224869348551"
+      },
+      {
+        "offset": 360,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204042345909068791"
+      },
+      {
+        "offset": 362,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206226676081501320"
+      },
+      {
+        "offset": 364,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206378090858554282"
+      },
+      {
+        "offset": 367,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204306623836726172"
+      },
+      {
+        "offset": 370,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206216200656265823"
+      },
+      {
+        "offset": 372,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204462251976696801"
+      },
+      {
+        "offset": 374,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204172204245264432"
+      },
+      {
+        "offset": 376,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206279920791070696"
+      },
+      {
+        "offset": 378,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204120303860458607"
+      },
+      {
+        "offset": 380,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204042345909068791"
+      },
+      {
+        "offset": 382,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204161715935126919"
+      }
+    ]
+  }
+}
