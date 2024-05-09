@@ -2,7 +2,7 @@ package config
 
 import "github.com/gofor-little/env"
 
-const Url = "https://api.telegram.org/bot"
+const ApiUrl = "https://api.telegram.org"
 const Port = 300
 
 // GetToken Telegram токен

@@ -1,0 +1,35 @@
+{
+  "update_id": 606554831,
+  "message": {
+    "message_id": 13567,
+    "from": {
+      "id": 5483704909,
+      "is_bot": false,
+      "first_name": "🕊🕊🕊..."
+    },
+    "chat": {
+      "id": -1001191230987,
+      "title": "Авто чат водителей Иваново | ДПС ДТП",
+      "username": "auto37",
+      "type": "supergroup"
+    },
+    "date": 1711554669,
+    "new_chat_participant": {
+      "id": 5483704909,
+      "is_bot": false,
+      "first_name": "🕊🕊🕊..."
+    },
+    "new_chat_member": {
+      "id": 5483704909,
+      "is_bot": false,
+      "first_name": "🕊🕊🕊..."
+    },
+    "new_chat_members": [
+      {
+        "id": 5483704909,
+        "is_bot": false,
+        "first_name": "🕊🕊🕊..."
+      }
+    ]
+  }
+}
