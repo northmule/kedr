@@ -8,9 +8,10 @@ import (
 	"path/filepath"
 )
 
-func main() {
+func main2() {
 
 	log.Println("Start runner")
+	runner.InitApp()
 	runner.StartApp()
 }
 

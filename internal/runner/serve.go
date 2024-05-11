@@ -11,10 +11,13 @@ import (
 
 // StartApp Запуск приложения
 func StartApp() {
-	loadEnvironmentVariables()
 	loadRouteHttp()
 	err := http.ListenAndServe(config.GetHostAddress(), nil)
 	utils.CheckError(err)
+}
+
+func InitApp() {
+	loadEnvironmentVariables()
 }
 
 // Все доступные роуты

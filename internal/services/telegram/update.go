@@ -15,7 +15,7 @@ func Update(w http.ResponseWriter, r *http.Request) {
 
 	err := json.NewDecoder(r.Body).Decode(&message)
 	utils.InfoError(err)
-
+	log.Printf("Входящее сообщение: %#v", message)
 	// Новый пользователь
 	if message.Message.NewChatMember.Id != 0 {
 		log.Println("Новый пользователь")

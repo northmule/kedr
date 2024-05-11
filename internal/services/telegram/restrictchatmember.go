@@ -23,6 +23,6 @@ func RestrictChatMember(chatId int64, userId int64) *telegram.Response {
 		},
 	}
 	restrictJson, _ := json.Marshal(restrict)
-	body := RequestTelegram(GetUrlAction("restrictChatMember"), restrictJson)
+	body := RequestPostTelegram(GetUrlAction("restrictChatMember"), restrictJson)
 	return body
 }

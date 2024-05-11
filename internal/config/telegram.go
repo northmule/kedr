@@ -9,3 +9,8 @@ const Port = 300
 func GetToken() string {
 	return env.Get("APP_TELEGRAM_TOKEN", "")
 }
+
+// GetQuestionText Текст вопроса для нового пользователя
+func GetQuestionText() string {
+	return "Проверка, ответь на это сообщение: "
+}
