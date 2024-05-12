@@ -2,42 +2,82 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"kedr/internal/config"
-	telegram2 "kedr/internal/models/telegram"
+	"kedr/internal/models/telegram"
 	"kedr/internal/runner"
-	"kedr/internal/services/telegram"
+	telegramService "kedr/internal/services/telegram"
 	"kedr/internal/utils"
 	"log"
 	"net/http"
 	"os"
 	"path/filepath"
 	"strconv"
+	"strings"
+	"time"
 )
 
 // Response Ответ от сервиса телеграм на запрос getUpdates
 type Response struct {
-	Ok     bool                       `json:"ok"`
-	Result []telegram2.ReceiveMessage `json:"result"`
+	Ok     bool                      `json:"ok"`
+	Result []telegram.ReceiveMessage `json:"result"`
 }
 
-func main() {
+type responseLocal struct {
+	Ok bool `json:"ok"`
+}
+
+func main_() {
+	for {
+		if runObserve() {
+			return
+		}
+		time.Sleep(1 * time.Second)
+	}
+
+}
+
+// ObserverStart Запуск получения и отправки данных для локального сервера
+func ObserverStart() {
+	for {
+		runObserve()
+		time.Sleep(1 * time.Second)
+	}
+}
+
+func runObserve() bool {
 
 	runner.InitApp()
-	url := telegram.GetUrlAction("getUpdates")
+	url := telegramService.GetUrlAction("getUpdates")
 	response := requestGetTelegram(url)
 
 	if !response.Ok {
 		log.Printf("Запрос не выполнен: %#v", response)
+		return false
 	}
 	fileList, err := os.ReadDir(config.DirObserverData)
 	utils.CheckError(err)
 
-	for _, message := range response.Result {
-		fileName := strconv.Itoa(int(message.UpdateID))
+	for _, receiveMessage := range response.Result {
+		fileName := strconv.Itoa(int(receiveMessage.UpdateID))
 		file, err := os.OpenFile(filepath.Join(config.DirObserverData, fileName), os.O_CREATE|os.O_WRONLY, 0666)
 		utils.CheckError(err)
 		defer file.Close()
+		isExist := false
+		for _, file := range fileList {
+			if file.Name() == fileName {
+				isExist = true
+				break
+			}
+		}
+		if !isExist {
+			jsonString, _ := json.Marshal(receiveMessage)
+			_, err := file.Write(jsonString)
+			utils.CheckError(err)
+			requestPostLocalApp(receiveMessage)
+		}
 	}
+	return true
 }
 
 func requestGetTelegram(url string) *Response {
@@ -50,10 +90,16 @@ func requestGetTelegram(url string) *Response {
 	return response
 }
 
-func init() {
-	file, err := os.OpenFile(filepath.Join(config.DirLog, "update-observer.log"), os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0666)
-	if err != nil {
-		log.Fatal("Failed to open log file:", err)
-	}
-	log.SetOutput(file)
+func requestPostLocalApp(message telegram.ReceiveMessage) {
+	jsonString, _ := json.Marshal(message)
+	post, err := http.Post(
+		fmt.Sprintf("http://%s/api/v1/telegram/update", config.GetHostAddress()),
+		"application/json",
+		strings.NewReader(string(jsonString)),
+	)
+	utils.CheckError(err)
+	response := &responseLocal{}
+	err = json.NewDecoder(post.Body).Decode(&response)
+	utils.CheckError(err)
+	log.Printf("Отправил данные: %#v. Ответ сервера: %#v", string(jsonString), response)
 }

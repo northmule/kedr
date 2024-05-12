@@ -8,10 +8,15 @@ import (
 	"path/filepath"
 )
 
-func main2() {
+func main() {
 
 	log.Println("Start runner")
 	runner.InitApp()
+	if config.IsTestMode() {
+		log.Println("Test Mode")
+		// Запрос getUpdates и передача в вн. api
+		go ObserverStart()
+	}
 	runner.StartApp()
 }
 
